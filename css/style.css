@@ -55,3 +55,13 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+.header{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+  background-color:black; 
+  color: white;
+}
+
